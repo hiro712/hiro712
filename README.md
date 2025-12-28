@@ -14,3 +14,5 @@
     />
   </a>
 </p>
+<img src="https://img.shields.io/badge/168share-by%20shared-FF9A00?style=flat&logo=adobeillustrator&logoColor=white&labelColor=FF9A00" alt="Adobe Illustrator badge"/>
+<img src="https://img.shields.io/badge/tompedia-4k-9999FF?style=flat&logo=adobeaudition&logoColor=white&labelColor=9999FF" alt="Adobe Audition badge"/>
